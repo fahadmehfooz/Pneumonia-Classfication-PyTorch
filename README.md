@@ -31,7 +31,6 @@ About the data:
 * Preparing the images by rescaling them.
 * Visualizing the distribution of classes and the pictures of cells.
 * Augmenting the data using an image data generator.
-![alt text](https://github.com/fahadmehfooz/Brain-Tumor-Detection-Using-Keras-And-Pytorch-/blob/main/images/__results___62_0.png)
 
 ## Model Building 
 
